@@ -7,6 +7,6 @@ The Quickfall Resources repository -- [Quickfall/resources](https://github.com/Q
 
 ## Accessing Resources
 |        Resource        | Access Type |                                            Resolutor                                            |
-|:----------------------:|:-----------:|:-----------------------------------------------------------------------------------------------:|
+|:----------------------:|:-----------:|:-----------------------------------------------------------------------------------------------|
 |   Logo Square (500px)  |     URL     | `https://files.horizon.pics/f81f51f2-5d6d-4ae8-b6a1-f4ff648f66c1?a=1199&mime1=image&mime2=jpeg` |
 | Logo Full (1000/200px) |     URL     | `https://files.horizon.pics/c20a230d-ec2d-4d15-ba21-c6b851925381?a=1199&mime1=image&mime2=jpeg` |
