@@ -6,7 +6,13 @@ This repository contains most of the resources used by the Quickfall team. When 
 The Quickfall Resources repository -- [Quickfall/resources](https://github.com/Quickfall/resources) -- and it's contents are licenced under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0) except where stated otherwise.
 
 ## Accessing Resources
-|        Resource        | Access Type |                                            Resolutor                                            |
-|:----------------------:|:-----------:|:-----------------------------------------------------------------------------------------------|
-|   Logo Square (500px)  |     URL     | `https://files.horizon.pics/f81f51f2-5d6d-4ae8-b6a1-f4ff648f66c1?a=1199&mime1=image&mime2=jpeg` |
-| Logo Full (1000/200px) |     URL     | `https://files.horizon.pics/c20a230d-ec2d-4d15-ba21-c6b851925381?a=1199&mime1=image&mime2=jpeg` |
+| Resource |  Type  |  Theme |  Background |                                                  Resolutor                                                  |
+|:--------:|:------:|:------:|:-----------:|:-----------------------------------------------------------------------------------------------------------:|
+| Logo     | Full   | Dark   | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_full_dark_visible.png?raw=true`**        |
+| Logo     | Square | Dark   | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_dark_visible.png?raw=true`**      |
+| Logo     | Square | Light  | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_light_visible.png?raw=true`**     |
+| Logo     | Full   | Light  | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_full_light_visible.png?raw=true`**       |
+| Logo     | Full   | Dark   | Transparent | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_full_dark_transparent.png?raw=true`**    |
+| Logo     | Square | Dark   | Transparent | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_dark_transparent.png?raw=true`**  |
+| Logo     | Square | Light  | Transparent | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_light_transparent.png?raw=true`** |
+| Logo     | Full   | Light  | Transparent | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_full_light_transparent.png?raw=true`**   |
