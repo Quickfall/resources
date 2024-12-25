@@ -7,7 +7,7 @@ The Quickfall Resources repository -- [Quickfall/resources](https://github.com/Q
 
 ## Accessing Resources
 | Resource |  Type  |  Theme |  Background |                                                  Resolutor                                                  |
-|:--------:|:------:|:------:|:-----------:|:-----------------------------------------------------------------------------------------------------------:|
+|:--------:|:------:|:------:|:-----------:|:-----------------------------------------------------------------------------------------------------------|
 | Logo     | Full   | Dark   | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_full_dark_visible.png?raw=true`**        |
 | Logo     | Square | Dark   | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_dark_visible.png?raw=true`**      |
 | Logo     | Square | Light  | Visible     | **`https://github.com/Quickfall/resources/blob/main/quickfall_logo_square_light_visible.png?raw=true`**     |
