@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://files.horizon.pics/c20a230d-ec2d-4d15-ba21-c6b851925381?a=1199&mime1=image&mime2=jpeg">
+</div>
 
 # Quickfall's Project Resources
 This repository contains most of the resources used by the Quickfall team. When contributing, you are expected to utilise these resources where appropriate - see existing documentation for reference and examples.
